@@ -1,15 +1,16 @@
-id: opecha:P006971
+id: P006971
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5405
   title: འདུལ་བའི་ཚིག་ལེའུར་བྱས་པ་མེ་ཏོག་ཕྲེང་རྒྱུད།
-  volume:
+  author: ''
+  volumes:
     e3d8170a5c9c4e35815d36d3284ee387:
       image_group_id: I3CN5407
       title: Volume 1 of 'dul ba'i tshig le'ur byas pa me tog phreng rgyud/
       volume_number: 1
       total_pages: 224
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འདུལ་བའི་ཚིག་ལེའུར་བྱས་པ་མེ་ཏོག་ཕྲེང་རྒྱུད།
   author: ''
